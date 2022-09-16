@@ -1,0 +1,12 @@
+pandas==1.4.4
+fiona==1.8.21
+shapely==1.8.4
+pyproj==3.4.0
+rtree==1.0.0
+geopandas==0.11.1
+matplotlib==3.6.0
+mapclassify==2.4.3
+jupyter==1.0.0
+notebook==6.4.12
+pydeck==0.7.1
+openpyxl==3.0.10
